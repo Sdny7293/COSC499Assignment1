@@ -8,7 +8,7 @@ public class Num_stats {
         }  
         return max;  
     }  
-
+    //This is a test comment to show changes!
     //method that returns cube of the given number  
     public static int cube(int n){  
         return n*n*n;  
