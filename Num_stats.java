@@ -8,6 +8,11 @@ public class Num_stats {
         }  
         return max;  
     }  
+
+    //method that returns cube of the given number  
+    public static int cube(int n){  
+        return n*n*n;  
+    } 
 }
 
 
